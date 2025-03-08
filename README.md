@@ -2,6 +2,9 @@
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31aec54igp4znybywzumpehfnh6y" alt="Data Card for Spotify">
 </a>
 
+![playstation_2 forbiddensiren2_US 16445175181495733654](https://github.com/user-attachments/assets/e97ded15-44a4-46bd-a7eb-3600f682b938)
+[Forbidden Siren 2](https://dl8.retrogametalk.com/download.php?file=Forbidden%20Siren%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.7z&id=153027&platform=ps2-iso&key=12917459540)
+
 ![ps2_siren](https://github.com/user-attachments/assets/423fec86-3f87-44d1-ad6e-b8161cf57f60)
 [Siren](https://dl8c.retrogametalk.com/download.php?file=Siren%20%28USA%29.7z&id=152913&platform=ps2-iso&key=15670074671)
 
