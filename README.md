@@ -10,3 +10,6 @@
 
 ![ps2_fatalframe_2](https://github.com/user-attachments/assets/4ea5275e-c4e9-4d1d-ac55-5c268b4be4f9)
 [Fatal Frame](https://dl11.retrogametalk.com/download.php?file=Fatal%20Frame%20%28USA%29.7z&id=84676&platform=ps2-iso&key=9247142240)
+
+![ps2_silenthill2](https://github.com/user-attachments/assets/0c6507ac-72a6-44b3-bda2-13b020fc7245)
+[Silent Hill 2](https://dl6.retrogametalk.com/download.php?file=Silent%20Hill%202%20%28USA%29%20%28En%2CJa%29.7z&id=83304&platform=ps2-iso&key=10908612317)
